@@ -104,6 +104,6 @@ storage_ragrs_id = "/subscriptions/XXXXXXXX/resourceGroups/rg-storage-ca-east/pr
 
 <img width="1789" height="743" alt="image" src="https://github.com/user-attachments/assets/d9e187e5-086f-4475-9c22-9dffca9c09a9" />
 
-<img width="1789" height="743" alt="image" src="https://github.com/user-attachments/assets/6b14c4bb-d2d5-4ecc-bf63-dfd101581d40" />
+<img width="1789" height="743" alt="image" src="https://github.com/user-attachments/assets/a2331006-edeb-436c-8058-c884f9febf17" />
 
 

@@ -96,3 +96,15 @@ After deployment, Terraform outputs a summary:
 keyvault_id = "subscriptions/XXXXXXXX/resourceGroups/rg-keyvault-ca-east/providers/Microsoft.KeyVault/vaults/kv-ca-east-example"
 storage_lrs_id = "/subscriptions/XXXXXXXX/resourceGroups/rg-storage-ca-central/providers/Microsoft.Storage/storageAccounts/stgcentraldev123"
 storage_ragrs_id = "/subscriptions/XXXXXXXX/resourceGroups/rg-storage-ca-east/providers/Microsoft.Storage/storageAccounts/stgeastdev456"
+
+
+### Screenshots
+
+<img width="1670" height="638" alt="image" src="https://github.com/user-attachments/assets/96db7005-d9bd-4969-8e4b-4aabb67556a4" />
+
+
+<img width="1670" height="638" alt="image" src="https://github.com/user-attachments/assets/62831a93-a805-4a13-b3c0-59274e4ccfc0" />
+
+<img width="1670" height="638" alt="image" src="https://github.com/user-attachments/assets/9760e312-c976-4dfe-a6fb-1a59d67f2c76" />
+
+

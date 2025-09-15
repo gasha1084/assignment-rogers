@@ -20,7 +20,7 @@ module "keyvault_module" {
   location                            = "Canada East"
   storage_location                    = "Canada East"
   keyvault_name                       = "kv-ca-east-example"
-  tenant_id                           = "02f91c3b-3136-44e6-8fb3-171d9ac178d9"
+  tenant_id                           = "XXXXXXXX"
   create_keyvault                     = true
   create_storage                      = false
   keyvault_public_access              = false
@@ -42,7 +42,7 @@ module "storage_module_lrs" {
   replication_type       = "LRS"
   storage_public_access  = false
   public_network_access  = false
-  tenant_id              = "02f91c3b-3136-44e6-8fb3-171d9ac178d9"
+  tenant_id              = "XXXXXXXX"
   tags = {
     env = "dev"
   }
@@ -60,7 +60,7 @@ module "storage_module_ragrs" {
   replication_type       = "RAGRS"
   storage_public_access  = true
   public_network_access  = true
-  tenant_id              = "02f91c3b-3136-44e6-8fb3-171d9ac178d9"
+  tenant_id              = "XXXXXXXXXXXX"
   tags = {
     env = "dev"
   }
